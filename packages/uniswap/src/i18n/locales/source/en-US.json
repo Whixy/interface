@@ -1764,7 +1764,7 @@
   "swap.bestRoute.cost": "Best price route costs ~{{gasPrice}} in gas. ",
   "swap.bestRoute.cost.v4": "Optimal route costs ~{{gasPrice}} in gas. ",
   "swap.bridging.estimatedTime": "Est. time",
-  "swap.bridging.title": "Swapping across networks",
+  "swap.bridging.title": "Swapping Hera Finance",
   "swap.bridging.warning.description": "You’re swapping from {{fromNetwork}} to {{toNetwork}}. This is also known as \"bridging\", which moves your tokens from one network to another.",
   "swap.button.max": "Max",
   "swap.button.review": "Review",

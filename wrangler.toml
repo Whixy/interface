@@ -1,0 +1,5 @@
+name = "project-name"
+type = "webpack" # veya "webpack" / "module"
+workers_dev = true
+compatibility_date = "2024-01-01"
+
